@@ -1,0 +1,16 @@
+.imageSection{
+    display: flex;
+}
+
+.card__text{
+    font-size: 3rem;
+}
+
+.card__image{
+    padding: 3rem 2rem;
+}
+
+.card__image img{
+    height: 40rem;
+    border-radius: 1rem;
+}
